@@ -1,4 +1,4 @@
-module github.com/cespare/reflex
+module github.com/qhenkart/reflex
 
 go 1.20
 
